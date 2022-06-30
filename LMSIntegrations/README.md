@@ -1,5 +1,7 @@
 # MSFTEDU
-Microsoft for Education resources
+Resources pertaining to the Microsoft LMS Integrations.
+All official documentation is located at https://docs.microsoft.com/en-us/microsoft-365/lti/
+Anything in this repository is considered unofficial and should be used at your own risk.
 
 ## Disclaimer
 
