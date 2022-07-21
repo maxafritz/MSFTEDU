@@ -1,7 +1,7 @@
 # Identify Class Teams created by Teams Classes LTI
 Class Teams created through the Teams Classes LTI have a few specific properties that other Groups/Teams do not have. These properties should be present on both the Group entity in Graph.
 
-### [Disclaimer]
+### [Disclaimer](https://github.com/maxafritz/MSFTEDU/tree/main/LMSIntegrations#disclaimer)
 
 
 ## Find 'Groups' created by Teams Classes LTI
