@@ -5,7 +5,7 @@ Class Teams created through the Teams Classes LTI have a few specific properties
 
 
 ## Find 'Groups' created by Teams Classes LTI
-We will be using the [groups](https://docs.microsoft.com/en-us/graph/api/group-list?view=graph-rest-1.0&tabs=http) endpoint. The group object gets created alongsite the Class Team, and when created via LTI, is created with a special schemaExtension of _microsoft_EducationClassLmsExt_.  
+We will be using the [groups](https://docs.microsoft.com/en-us/graph/api/group-list?view=graph-rest-1.0&tabs=http) endpoint. The group object gets created alongsite the Class Team, and when created for LTI, is created with a special schemaExtension of _microsoft_EducationClassLmsExt_.  
 
 _Microsoft_EducationClassLmsExt_ has several properties, not all of which are used, depending on your LMS:
 - ltiContextId (required)
